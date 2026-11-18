@@ -1,6 +1,6 @@
 // Placeholder URLs. Replace before shipping.
 export const LINKS = {
-  github: 'https://github.com/USERNAME/wayfinder-haptic-playground',
+  github: 'https://github.com/kevinnguyen-design/wayfinder-haptic-playground',
   linkedin: 'https://www.linkedin.com/in/USERNAME',
   thesis: 'https://example.com/wayfinder-thesis',
 } as const;
